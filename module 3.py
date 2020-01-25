@@ -242,7 +242,7 @@ label_23.place(x=880,y=310)
 entry_24= Entry(root,textvar=c17)
 entry_24.place(x=1040,y=310)
 
-label_25 = Label(root, text="Major 1 Mentor",width=20,font=("bold", 10))
+label_25 = Label(root, text="Major 1 Mentor name",width=20,font=("bold", 10))
 label_25.place(x=880,y=340)
 
 entry_25= Entry(root,textvar=c18)
@@ -254,7 +254,7 @@ label_26.place(x=880,y=370)
 entry_27= Entry(root,textvar=c19)
 entry_27.place(x=1040,y=370)
 
-label_28 = Label(root, text="Major 2 Mentor",width=20,font=("bold", 10))
+label_28 = Label(root, text="Major 2 Mentor name",width=20,font=("bold", 10))
 label_28.place(x=880,y=400)
 
 entry_29 = Entry(root,textvar=c20)
